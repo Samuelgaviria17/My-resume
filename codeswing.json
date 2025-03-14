@@ -9,10 +9,6 @@
         "path": "style.css",
         "type": "css"
       },
-      {
-        "path": "script.js",
-        "type": "javascript"
-      }
     ],
     "preview": {
       "enabled": true,
