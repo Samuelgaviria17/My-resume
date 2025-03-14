@@ -1,0 +1,22 @@
+{
+    "name": "MonProjet",
+    "files": [
+      {
+        "path": "index.html",
+        "type": "html"
+      },
+      {
+        "path": "style.css",
+        "type": "css"
+      },
+      {
+        "path": "script.js",
+        "type": "javascript"
+      }
+    ],
+    "preview": {
+      "enabled": true,
+      "autorefresh": true
+    }
+  }
+  
