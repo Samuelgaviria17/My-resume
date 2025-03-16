@@ -1,18 +1,1 @@
-{
-    "name": "My-Resume",
-    "files": [
-      {
-        "path": "index.html",
-        "type": "html"
-      },
-      {
-        "path": "style.css",
-        "type": "css"
-      }
-    ],
-    "preview": {
-      "enabled": true,
-      "autorefresh": true
-    }
-  }
   

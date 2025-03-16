@@ -1,2 +1,2 @@
 # My-resume
-That is my resume
+Ceci est mon cv
