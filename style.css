@@ -13,14 +13,13 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
-    padding-bottom: 1em;
+    font-size: 1.25em;
+    padding-bottom: 0em;
 }
 
 h3 {
     font-size: 1em;
-    padding-bottom: 1em;
-    text-decoration: underline;
+    padding-bottom: 0em;
 }
 
 main { 
