@@ -46,8 +46,8 @@ p {
 
 hr {
     border: none;
-    background-color: lightgray;
-    height: 1px;
+    background-color: black;
+    height: 2px;
 }
 
 h2, h3 {
